@@ -40,7 +40,7 @@ A project developed at the Sirius University Intensive together with specialists
 
 [UI refernce](https://dribbble.com/shots/20815352-JStock-App)
 
-### Installation
+## Installation
 
 1. Clone the repo via git clone command
 
