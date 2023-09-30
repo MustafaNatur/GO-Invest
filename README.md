@@ -1,10 +1,10 @@
-<img src="images/0.png" align="left" hspace="25" vspace="1" height="150" width="150">
+<img src="images/0.png" align="left" hspace="1" vspace="1" height="150" width="150">
 
-# News app
+# GoInvest
 
 ---
 
-### О проекте
+### About
 
 A project developed at the Sirius University Intensive together with specialists from Yandex.
 
